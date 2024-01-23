@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5edbc2d8-e096-4a74-95f1-750b99650bf0" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/World.java" afterDir="false" />
-    </list>
+    <list default="true" id="5edbc2d8-e096-4a74-95f1-750b99650bf0" name="변경" comment="개발 팀장 '김철수'의 첫번째 커밋입니다." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +54,15 @@
       <option name="presentableId" value="Default" />
       <updated>1705975413933</updated>
     </task>
+    <task id="LOCAL-00001" summary="개발 팀장 '김철수'의 첫번째 커밋입니다.">
+      <option name="closed" value="true" />
+      <created>1705977781922</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705977781922</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,5 +75,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="개발 팀장 '김철수'의 첫번째 커밋입니다." />
+    <option name="LAST_COMMIT_MESSAGE" value="개발 팀장 '김철수'의 첫번째 커밋입니다." />
   </component>
 </project>
